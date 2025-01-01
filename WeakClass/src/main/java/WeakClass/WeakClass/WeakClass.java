@@ -1,5 +1,6 @@
 package WeakClass.WeakClass;
-
+//Carolina Erlich 314776741
+//Linoy Elhadif 313536815
 public class WeakClass {
 	public int weakMethod1 (int a, int b) {
 		if (a > b) {
